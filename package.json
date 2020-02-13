@@ -16,8 +16,6 @@
   },
   "homepage": "https://github.com/nims07/dev#readme",
   "description": "Hello world Javascript How to npm",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
