@@ -1,0 +1,23 @@
+{
+  "name": "@nims07/dev",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nims07/dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nims07/dev/issues"
+  },
+  "homepage": "https://github.com/nims07/dev#readme",
+  "description": "Hello world Javascript How to npm",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
